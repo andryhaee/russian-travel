@@ -1,0 +1,14 @@
+.page{
+  background-color: #2A2C2F;
+  min-width: 320px;
+  color: #fff;
+  
+}
+
+* {
+  box-sizing: border-box;
+}
+
+p,h1,h2,h3,h4,a{
+  margin: 0;
+}
