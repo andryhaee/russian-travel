@@ -3,6 +3,8 @@
   min-width: 320px;
   color: #fff;
   width: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
 }
 
 * {
