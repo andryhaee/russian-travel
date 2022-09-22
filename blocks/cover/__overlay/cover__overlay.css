@@ -10,7 +10,6 @@
   justify-content: center;
   align-items: center;
   text-decoration: none;
-  
 }
 
 .cover__overlay::after {
@@ -23,6 +22,7 @@
   left: 0;
   background-color: #2A2C2F;
   opacity: 0.3;
+  transition: opacity 0.5s ease;
 }
 
 .cover__overlay:hover::after {

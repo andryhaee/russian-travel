@@ -7,20 +7,17 @@
 @media screen and (max-width: 1279px){
   .main {
     max-width: 1024px;
-    margin: 0 auto;
   }
 }
   
 @media screen and (max-width: 1023px){
   .main {
     max-width: 768px;
-    margin: 0 auto;
   }
 }
   
 @media screen and (max-width: 767px){
   .main {
     min-width: 320px;
-    margin: 0 auto;
   }
 }

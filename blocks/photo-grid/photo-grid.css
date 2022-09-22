@@ -18,7 +18,6 @@
   .photo-grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 16px;
-    margin: 0 auto;
     width: calc(100% - 48px);
   }
 }
@@ -27,7 +26,6 @@
   .photo-grid {
     grid-template-columns: 1fr;
     gap: 12px;
-    margin: 0 auto;
     min-width: 288px;
     width: calc(100% - 32px);
   }

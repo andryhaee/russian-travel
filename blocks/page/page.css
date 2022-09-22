@@ -5,12 +5,9 @@
   width: 100%;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-}
-
-* {
   box-sizing: border-box;
 }
 
-p,h1,h2,h3,h4,a{
+/*p,h1,h2,h3,h4,a{
   margin: 0;
 }
